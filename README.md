@@ -6,12 +6,7 @@ Visualização da composição racial (autodeclarada) da população residente n
 
 Dados extraídos da **Pesquisa Distrital por Amostra de Domicílios (PDAD) 2021** – IPEDF.
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/0F52BA/FFFFFF?text=Masculino" alt="Gráfico Masculino" width="45%">
-  <img src="https://via.placeholder.com/800x400/ff7ea7/FFFFFF?text=Feminino" alt="Gráfico Feminino" width="45%">
-</p>
-
-*(Substitua as URLs acima pelos caminhos reais das imagens no repositório após commit: `./grafico_masculino.png` e `./grafico_feminino.png`)*
+(por graficos aqui)
 
 ## O que o código faz?
 
