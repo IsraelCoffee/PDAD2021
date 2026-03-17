@@ -109,24 +109,3 @@ tab2 %>%
     breaks = seq(0, 1, by = 0.1),
     labels = scales::percent_format(accuracy = 1)) +
     theme_bw()
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
