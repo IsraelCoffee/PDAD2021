@@ -7,7 +7,7 @@ library(ggplot2)  # Criação de gráficos
 library(scales)
 library(readr)
 
-PDAD_2021_Domicilios <- read_delim("C:/Users/VD11740/Downloads/PDAD/2021/PDAD_2021-Domicilios.csv", 
+PDAD_2021_Domicilios <- read_delim("C:/Users/Downloads/PDAD/2021/PDAD_2021-Domicilios.csv", 
                                    delim = ";", escape_double = FALSE, trim_ws = TRUE)
 View(PDAD_2021_Domicilios)
 
